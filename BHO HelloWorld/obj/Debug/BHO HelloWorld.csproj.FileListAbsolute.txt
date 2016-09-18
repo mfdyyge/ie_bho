@@ -1,0 +1,30 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\BHO HelloWorld\BHO HelloWorld\bin\Debug\BHO HelloWorld.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\BHO HelloWorld\BHO HelloWorld\bin\Debug\Interop.SHDocVw.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\BHO HelloWorld\BHO HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\BHO HelloWorld\BHO HelloWorld\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\BHO HelloWorld\BHO HelloWorld\obj\Debug\BHO HelloWorld.csproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\BHO HelloWorld\BHO HelloWorld\obj\Debug\BHO HelloWorld.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\BHO HelloWorld\BHO HelloWorld\obj\Debug\BHO HelloWorld.pdb
+C:\Users\Administrator\Desktop\BHO HelloWorld\BHO HelloWorld\bin\Debug\BHO HelloWorld.dll
+C:\Users\Administrator\Desktop\BHO HelloWorld\BHO HelloWorld\bin\Debug\BHO HelloWorld.pdb
+C:\Users\Administrator\Desktop\BHO HelloWorld\BHO HelloWorld\bin\Debug\Interop.SHDocVw.dll
+C:\Users\Administrator\Desktop\BHO HelloWorld\BHO HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\BHO HelloWorld\BHO HelloWorld\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Administrator\Desktop\BHO HelloWorld\BHO HelloWorld\obj\Debug\BHO HelloWorld.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\BHO HelloWorld\BHO HelloWorld\obj\Debug\BHO HelloWorld.dll
+C:\Users\Administrator\Desktop\BHO HelloWorld\BHO HelloWorld\obj\Debug\BHO HelloWorld.pdb
+C:\Users\Administrator\Desktop\毕设\BHO HelloWorld\BHO HelloWorld\bin\Debug\BHO HelloWorld.dll
+C:\Users\Administrator\Desktop\毕设\BHO HelloWorld\BHO HelloWorld\bin\Debug\BHO HelloWorld.pdb
+C:\Users\Administrator\Desktop\毕设\BHO HelloWorld\BHO HelloWorld\bin\Debug\Interop.SHDocVw.dll
+C:\Users\Administrator\Desktop\毕设\BHO HelloWorld\BHO HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\毕设\BHO HelloWorld\BHO HelloWorld\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Administrator\Desktop\毕设\BHO HelloWorld\BHO HelloWorld\obj\Debug\BHO HelloWorld.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\毕设\BHO HelloWorld\BHO HelloWorld\obj\Debug\BHO HelloWorld.dll
+C:\Users\Administrator\Desktop\毕设\BHO HelloWorld\BHO HelloWorld\obj\Debug\BHO HelloWorld.pdb
+M:\IE\742\BHO HelloWorld.dll
+M:\IE\742\BHO HelloWorld.pdb
+M:\new_namespase\29782183BHO-HelloWorld\BHO HelloWorld\BHO HelloWorld\obj\Debug\BHO HelloWorld.csprojResolveAssemblyReference.cache
+M:\new_namespase\29782183BHO-HelloWorld\BHO HelloWorld\BHO HelloWorld\obj\Debug\Interop.SHDocVw.dll
+M:\new_namespase\29782183BHO-HelloWorld\BHO HelloWorld\BHO HelloWorld\obj\Debug\BHO HelloWorld.csproj.ResolveComReference.cache
+M:\new_namespase\29782183BHO-HelloWorld\BHO HelloWorld\BHO HelloWorld\obj\Debug\BHO HelloWorld.dll
+M:\new_namespase\29782183BHO-HelloWorld\BHO HelloWorld\BHO HelloWorld\obj\Debug\BHO HelloWorld.pdb

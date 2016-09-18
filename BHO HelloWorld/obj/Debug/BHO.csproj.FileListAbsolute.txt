@@ -1,0 +1,7 @@
+M:\IE\742\BHO.dll
+M:\IE\742\BHO.pdb
+M:\new_namespase\29782183BHO-HelloWorld - 副本\BHO HelloWorld\BHO HelloWorld\obj\Debug\Interop.SHDocVw.dll
+M:\new_namespase\29782183BHO-HelloWorld - 副本\BHO HelloWorld\BHO HelloWorld\obj\Debug\BHO.csproj.ResolveComReference.cache
+M:\new_namespase\29782183BHO-HelloWorld - 副本\BHO HelloWorld\BHO HelloWorld\obj\Debug\BHO.dll
+M:\new_namespase\29782183BHO-HelloWorld - 副本\BHO HelloWorld\BHO HelloWorld\obj\Debug\BHO.pdb
+M:\new_namespase\29782183BHO-HelloWorld - 副本\BHO HelloWorld\BHO HelloWorld\obj\Debug\BHO.csprojResolveAssemblyReference.cache
